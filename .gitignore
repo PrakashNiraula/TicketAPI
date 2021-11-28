@@ -1,0 +1,6 @@
+node_modules
+.nprmc
+.env
+.nprmc
+.vscode
+public/uploads
